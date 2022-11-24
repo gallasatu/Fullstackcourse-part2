@@ -1,0 +1,33 @@
+h1 {
+  color: rgb(150, 117, 250);
+  font-size: 40px;
+}
+
+h2 {
+  color:rgb(89, 56, 186)
+}
+.person {
+  color: rgb(54, 52, 52);
+  padding-top: 5px;
+  font-size: 15px;
+}
+
+.error {
+  color: rgb(255, 79, 79);
+  background: rgba(241, 140, 143, 0.809);
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 15px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.success {
+  color: rgb(111, 128, 111);
+  background: rgba(240, 255, 244, 0.809);
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 15px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
